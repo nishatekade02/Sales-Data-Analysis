@@ -77,6 +77,24 @@ Basic time-series forecasting was performed using Exponential Smoothing to estim
 
 `Sales_Data_Analysis.ipynb` - Complete Python data analysis notebook.
 
+## 📊 Project Visualizations
+
+### Sales by Category
+![Sales by Category](Sales_by_category.png)
+
+### Profit by Category
+![Profit by Category](profit_by_category.png)
+
+### Top 10 Customers
+![Top 10 Customers](top_10_customer.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Sales Forecast
+![Sales Forecast](sales_forecast.png)
+
+
 ## 🚀 Conclusion
 
 This project demonstrates practical skills in data cleaning, exploratory data analysis, visualization, KPI analysis, business problem solving, and basic time-series forecasting using Python.
